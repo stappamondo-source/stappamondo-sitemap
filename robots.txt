@@ -1,8 +1,8 @@
 User-agent: *
 Disallow:
 
-# Sitemap italiano (Google Sites)
+# Sitemap Italiano
 Sitemap: https://www.stappamondo.com/sitemap.xml
 
-# Sitemap inglese (GitHub Pages)
+# Sitemap Inglese
 Sitemap: https://stappamondo-source.github.io/stappamondo-sitemap/sitemap.xml
