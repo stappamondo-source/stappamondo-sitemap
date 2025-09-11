@@ -1,8 +1,4 @@
 User-agent: *
 Disallow:
 
-# Sitemap Italiano
-Sitemap: https://www.stappamondo.com/sitemap.xml
-
-# Sitemap Inglese
-Sitemap: https://stappamondo-source.github.io/stappamondo-sitemap/sitemap.xml
+Sitemap: https://sitemap.stappamondo.com/sitemap.xml
