@@ -3,63 +3,77 @@
 
   <url>
     <loc>https://www.stappamondo.com/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/contatti</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/chi-siamo</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/i-nostri-servizi</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/Itinerari</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.stappamondo.com/Itinerari/la-via-della-meraviglia</loc>
+    <lastmod>2025-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.stappamondo.com/Itinerari/entroterre-borghi-di-frontiera</loc>
+    <lastmod>2025-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://en.stappamondo.com/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://en.stappamondo.com/contact</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://en.stappamondo.com/about-us</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://en.stappamondo.com/our-services</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
