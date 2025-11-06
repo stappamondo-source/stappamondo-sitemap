@@ -4,7 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
   <loc>https://www.stappamondo.com/</loc>
@@ -13,7 +12,7 @@
 </url>
 
 <url>
-  <loc>https://www.stappamondo.com/home-il-viaggio-come-identit%C3%A0-liquida</loc>
+  <loc>https://www.stappamondo.com/home-il-viaggio-come-identità-liquida</loc>
   <lastmod>2025-11-06T17:50:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -62,4 +61,8 @@
 
 <url>
   <loc>https://www.stappamondo.com/lingua</loc>
-  <lastmod>2
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+</urlset>
