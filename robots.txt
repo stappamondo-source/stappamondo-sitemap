@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
-
-Sitemap: https://sitemap.stappamondo.com/sitemap.xml
+Sitemap: https://www.stappamondo.com/sitemap.xml
