@@ -12,31 +12,31 @@
 </url>
 
 <url>
-  <loc>https://www.stappamondo.com/home-il-viaggio-come-identità-liquida</loc>
+  <loc>https://www.stappamondo.com/viaggio-identita-liquida</loc>
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
+
+<url>
+  <loc>https://www.stappamondo.com/itinerari-borghi-vino</loc>
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
+
+<url>
+  <loc>https://www.stappamondo.com/la-via-della-meraviglia</loc>
   <lastmod>2025-11-06T17:50:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
 <url>
-  <loc>https://www.stappamondo.com/itinerari-esclusivi-borghi-vino</loc>
+  <loc>https://www.stappamondo.com/entroterre-borghi-frontiera</loc>
   <lastmod>2025-11-06T17:50:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
 <url>
-  <loc>https://www.stappamondo.com/itinerari-esclusivi-borghi-vino/la-via-della-meraviglia</loc>
-  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://www.stappamondo.com/itinerari-esclusivi-borghi-vino/entroterre-borghi-di-frontiera</loc>
-  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://www.stappamondo.com/itinerari-esclusivi-borghi-vino/sinfonia-portoghese</loc>
+  <loc>https://www.stappamondo.com/sinfonia-portoghese</loc>
   <lastmod>2025-11-06T17:50:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -48,21 +48,15 @@
 </url>
 
 <url>
-  <loc>https://www.stappamondo.com/servizi-travel-design-enoturismo</loc>
+  <loc>https://www.stappamondo.com/servizi-travel-design</loc>
   <lastmod>2025-11-06T17:50:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
 <url>
-  <loc>https://www.stappamondo.com/contatti-stappamondo</loc>
+  <loc>https://www.stappamondo.com/contatti</loc>
   <lastmod>2025-11-06T17:50:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://www.stappamondo.com/lingua</loc>
-  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.75</priority>
 </url>
 
 </urlset>
