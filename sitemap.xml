@@ -1,111 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <!-- ITALIANO -->
-  <url>
-    <loc>https://www.stappamondo.com/</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<url>
+  <loc>https://www.stappamondo.com/</loc>
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
 
-  <url>
-    <loc>https://www.stappamondo.com/contatti</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+  <loc>https://www.stappamondo.com/home-il-viaggio-come-identit%C3%A0-liquida</loc>
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
-  <url>
-    <loc>https://www.stappamondo.com/chi-siamo</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+  <loc>https://www.stappamondo.com/itinerari-esclusivi-borghi-vino</loc>
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
-  <url>
-    <loc>https://www.stappamondo.com/i-nostri-servizi</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+  <loc>https://www.stappamondo.com/itinerari-esclusivi-borghi-vino/la-via-della-meraviglia</loc>
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
-  <url>
-    <loc>https://www.stappamondo.com/Itinerari</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
+<url>
+  <loc>https://www.stappamondo.com/itinerari-esclusivi-borghi-vino/entroterre-borghi-di-frontiera</loc>
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
-  <url>
-    <loc>https://www.stappamondo.com/Itinerari/la-via-della-meraviglia</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
+<url>
+  <loc>https://www.stappamondo.com/itinerari-esclusivi-borghi-vino/sinfonia-portoghese</loc>
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
-  <url>
-    <loc>https://www.stappamondo.com/Itinerari/entroterre-borghi-di-frontiera</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
+<url>
+  <loc>https://www.stappamondo.com/chi-siamo</loc>
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
-  <!-- ENGLISH -->
-  <url>
-    <loc>https://en.stappamondo.com/</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<url>
+  <loc>https://www.stappamondo.com/servizi-travel-design-enoturismo</loc>
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
-  <url>
-    <loc>https://en.stappamondo.com/contact</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+  <loc>https://www.stappamondo.com/contatti-stappamondo</loc>
+  <lastmod>2025-11-06T17:50:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
-  <url>
-    <loc>https://en.stappamondo.com/about-us</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/our-services</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys/The-Way-of-Wonder</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys/EntroTerre-Borderland-Villages</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys/Portuguese-Symphony</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-</urlset>
+<url>
+  <loc>https://www.stappamondo.com/lingua</loc>
+  <lastmod>2
