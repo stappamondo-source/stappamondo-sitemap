@@ -1,137 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- ITALIANO -->
+  <!-- HOME -->
   <url>
     <loc>https://www.stappamondo.com/</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
+  <!-- HUB PRINCIPALI -->
   <url>
     <loc>https://www.stappamondo.com/enoturismo</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/itinerari-enogastronomici</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
-  <!-- LANGHE – HUB E ITINERARI (NUOVI) -->
+  <!-- LANGHE – HUB E ITINERARI -->
   <url>
-    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli</loc>
+    <loc>https://www.stappamondo.com/itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli</loc>
     <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
-    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli/langhe-gran-tour-di-primavera</loc>
+    <loc>https://www.stappamondo.com/itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli/langhe-gran-tour-di-primavera</loc>
     <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
-    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli/5-giorni-nelle-langhe-gourmet</loc>
+    <loc>https://www.stappamondo.com/itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli/5-giorni-nelle-langhe-gourmet</loc>
     <lastmod>2025-12-16</lastmod>
   </url>
 
+  <!-- ALTRI ITINERARI -->
   <url>
     <loc>https://www.stappamondo.com/marche-via-della-meraviglia</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/entroterre-borghi-marche</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/sinfonia-portoghese</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
+  <!-- SERVIZI -->
   <url>
     <loc>https://www.stappamondo.com/servizi</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/tailor-made</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/stappamarche</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/weekend-gourmet-borghi</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/viaggi-in-italia</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/tour-europa</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/incentive-aziende</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
+  <!-- CONTENUTI ISTITUZIONALI -->
   <url>
     <loc>https://www.stappamondo.com/magazine</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/chi-siamo</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/gift-card</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/contatti</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/recensioni</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <!-- ENGLISH -->
   <url>
     <loc>https://www.stappamondo.com/en</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/en/signature-journeys</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/en/our-services</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/en/about-us</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/en/contact</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-16</lastmod>
   </url>
 
 </urlset>
