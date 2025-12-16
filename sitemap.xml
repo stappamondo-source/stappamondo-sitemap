@@ -16,7 +16,23 @@
     <loc>https://www.stappamondo.com/itinerari-enogastronomici</loc>
     <lastmod>2025-11-21</lastmod>
   </url>
-  
+
+  <!-- LANGHE – HUB E ITINERARI (NUOVI) -->
+  <url>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli/langhe-gran-tour-di-primavera</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli/5-giorni-nelle-langhe-gourmet</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+
   <url>
     <loc>https://www.stappamondo.com/marche-via-della-meraviglia</loc>
     <lastmod>2025-11-21</lastmod>
@@ -92,7 +108,7 @@
     <lastmod>2025-11-21</lastmod>
   </url>
 
-  <!-- ENGLISH (titoli provvisori come da screenshot) -->
+  <!-- ENGLISH -->
   <url>
     <loc>https://www.stappamondo.com/en</loc>
     <lastmod>2025-11-21</lastmod>
