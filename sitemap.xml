@@ -1,195 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- ITALIANO -->
+  <!-- HOME -->
   <url>
     <loc>https://www.stappamondo.com/</loc>
     <lastmod>2026-01-09</lastmod>
   </url>
 
-  <url>
-    <loc>https://www.stappamondo.com/enoturismo</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-
+  <!-- ITINERARI ENOGASTRONOMICI -->
   <url>
     <loc>https://www.stappamondo.com/itinerari-enogastronomici</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
-  <!-- MARCHE – HUB + Viaggi enogastronomici Marche -->
+  <!-- MARCHE – HUB -->
   <url>
-    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/marche</loc>
-    <lastmod>2025-12-16</lastmod>
+    <loc>https://www.stappamondo.com/itinerari-enogastronomici/marche</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- MARCHE – PAGINA INTERMEDIA -->
+  <url>
+    <loc>https://www.stappamondo.com/itinerari-enogastronomici/marche/viaggi-enogastronomici-marche</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- Itinerari Marche -->
+  <url>
+    <loc>https://www.stappamondo.com/itinerari-enogastronomici/marche/viaggi-enogastronomici-marche/letteratour-giacomo-leopardi-recanati</loc>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
   <url>
-    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/marche/viaggi-enogastronomici-marche</loc>
-    <lastmod>2025-12-16</lastmod>
+    <loc>https://www.stappamondo.com/itinerari-enogastronomici/marche/viaggi-enogastronomici-marche/entroterre-borghi-di-frontiera</loc>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
   <url>
-    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/marche/viaggi-enogastronomici-marche/la-via-della-meraviglia</loc>
-    <lastmod>2025-12-16</lastmod>
+    <loc>https://www.stappamondo.com/itinerari-enogastronomici/marche/viaggi-enogastronomici-marche/la-via-della-meraviglia</loc>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
-  <url>
-    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/marche/viaggi-enogastronomici-marche/entroterre-borghi-di-frontiera</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-
-  <!-- NEW PAGE: Letteratour Giacomo Leopardi – Recanati -->
-  <url>
-    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/marche/viaggi-enogastronomici-marche/letteratour-giacomo-leopardi-recanati</loc>
-    <lastmod>2026-01-09</lastmod>
-  </url>
-
-  <!-- LANGHE – HUB E ITINERARI -->
+  <!-- LANGHE – HUB -->
   <url>
     <loc>https://www.stappamondo.com/itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
+  <!-- Itinerari Langhe -->
   <url>
     <loc>https://www.stappamondo.com/itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli/langhe-gran-tour-di-primavera</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
   <url>
-    <loc>https://www.stappamondo.com/itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli/5-giorni-nelle-langhe-gourmet</loc>
-    <lastmod>2025-12-16</lastmod>
+    <loc>https://www.stappamondo.com/itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli/langhe-in-fiore-5-giorni-gourmet</loc>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
-  <!-- ALTRE SEZIONI / LEGACY -->
+  <!-- MONTEFALCO – UMBRIA -->
+  <url>
+    <loc>https://www.stappamondo.com/itinerari-enogastronomici/montefalco-wine-escape</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- ENOTURISMO D'ECCELLENZA -->
+  <url>
+    <loc>https://www.stappamondo.com/enoturismo</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- SINFONIA PORTOGHESE -->
   <url>
     <loc>https://www.stappamondo.com/sinfonia-portoghese</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
+  <!-- SERVIZI DI TRAVEL DESIGN -->
   <url>
     <loc>https://www.stappamondo.com/servizi</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
-  <url>
-    <loc>https://www.stappamondo.com/tailor-made</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-
-  <url>
-    <loc>https://www.stappamondo.com/stappamarche</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-
-  <url>
-    <loc>https://www.stappamondo.com/weekend-gourmet-borghi</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-
-  <!-- FIXED URL -->
-  <url>
-    <loc>https://www.stappamondo.com/viaggi-in-italia</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-
-  <url>
-    <loc>https://www.stappamondo.com/tour-europa</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-
-  <url>
-    <loc>https://www.stappamondo.com/incentive-aziende</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-
+  <!-- MAGAZINE -->
   <url>
     <loc>https://www.stappamondo.com/magazine</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
+  <!-- CHI SIAMO -->
   <url>
     <loc>https://www.stappamondo.com/chi-siamo</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
+  <!-- GIFT CARD -->
   <url>
     <loc>https://www.stappamondo.com/gift-card</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
+  <!-- CONTATTI -->
   <url>
     <loc>https://www.stappamondo.com/contatti</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
+  <!-- LINGUA -->
   <url>
-    <loc>https://www.stappamondo.com/recensioni</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-
-
-  <!-- ENGLISH (en.stappamondo.com) -->
-  <url>
-    <loc>https://en.stappamondo.com/</loc>
-    <lastmod>2026-01-12</lastmod>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys</loc>
-    <lastmod>2026-01-12</lastmod>
-  </url>
-
-  <!-- LANGHE – HUB + Itineraries -->
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys/langhe-food-wine-travel</loc>
-    <lastmod>2026-01-12</lastmod>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys/langhe-food-wine-travel/langhe-in-bloom</loc>
-    <lastmod>2026-01-12</lastmod>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys/langhe-food-wine-travel/spring-grand-tour-langhe</loc>
-    <lastmod>2026-01-12</lastmod>
-  </url>
-
-  <!-- LE MARCHE – HUB + Itineraries -->
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys/le-marche-food-wine-travel/le-marche-food-wine-tours</loc>
-    <lastmod>2026-01-12</lastmod>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys/le-marche-food-wine-travel/leopardi-literary-tour-recanati-italy</loc>
-    <lastmod>2026-01-12</lastmod>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys/le-marche-food-wine-travel/EntroTerre-Borderland-Villages</loc>
-    <lastmod>2026-01-12</lastmod>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/signature-journeys/le-marche-food-wine-travel/The-Path-of-Wonder</loc>
-    <lastmod>2026-01-12</lastmod>
-  </url>
-
-  <!-- CORE PAGES -->
-  <url>
-    <loc>https://en.stappamondo.com/our-services</loc>
-    <lastmod>2026-01-12</lastmod>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/about-us</loc>
-    <lastmod>2026-01-12</lastmod>
-  </url>
-
-  <url>
-    <loc>https://en.stappamondo.com/contact</loc>
-    <lastmod>2026-01-12</lastmod>
+    <loc>https://www.stappamondo.com/lingua</loc>
+    <lastmod>2026-01-26</lastmod>
   </url>
 
 </urlset>
+
