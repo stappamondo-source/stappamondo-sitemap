@@ -4,113 +4,105 @@
   <!-- HOME -->
   <url>
     <loc>https://www.stappamondo.com/</loc>
-    <lastmod>2026-01-09</lastmod>
+    <lastmod>2026-02-16</lastmod>
   </url>
 
   <!-- ITINERARI ENOGASTRONOMICI -->
   <url>
-    <loc>https://www.stappamondo.com/itinerari-enogastronomici</loc>
-    <lastmod>2026-01-26</lastmod>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici</loc>
+    <lastmod>2026-02-16</lastmod>
   </url>
 
-  <!-- MARCHE – HUB -->
+  <!-- LANGHE -->
   <url>
-    <loc>https://www.stappamondo.com/itinerari-enogastronomici/marche</loc>
-    <lastmod>2026-01-26</lastmod>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/viaggi-enogastronomici-langhe</loc>
+    <lastmod>2026-02-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/viaggi-enogastronomici-langhe/gran-tour-primavera-langhe</loc>
+    <lastmod>2026-02-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/viaggi-enogastronomici-langhe/langhe-in-fiore-5-giorni-gourmet</loc>
+    <lastmod>2026-02-16</lastmod>
   </url>
 
-  <!-- MARCHE – PAGINA INTERMEDIA -->
+  <!-- MARCHE -->
   <url>
-    <loc>https://www.stappamondo.com/itinerari-enogastronomici/marche/viaggi-enogastronomici-marche</loc>
-    <lastmod>2026-01-26</lastmod>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/viaggi-enogastronomici-marche</loc>
+    <lastmod>2026-02-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/viaggi-enogastronomici-marche/letteratour-giacomo-leopardi-recanati</loc>
+    <lastmod>2026-02-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/viaggi-enogastronomici-marche/entroterre-borghi-di-frontiera</loc>
+    <lastmod>2026-02-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/viaggi-enogastronomici-marche/la-via-della-meraviglia</loc>
+    <lastmod>2026-02-16</lastmod>
   </url>
 
-  <!-- Itinerari Marche -->
+  <!-- MONTEFALCO -->
   <url>
-    <loc>https://www.stappamondo.com/itinerari-enogastronomici/marche/viaggi-enogastronomici-marche/letteratour-giacomo-leopardi-recanati</loc>
-    <lastmod>2026-01-26</lastmod>
+    <loc>https://www.stappamondo.com/Itinerari-enogastronomici/montefalco-wine-escape</loc>
+    <lastmod>2026-02-16</lastmod>
   </url>
 
+  <!-- SERVIZI -->
   <url>
-    <loc>https://www.stappamondo.com/itinerari-enogastronomici/marche/viaggi-enogastronomici-marche/entroterre-borghi-di-frontiera</loc>
-    <lastmod>2026-01-26</lastmod>
+    <loc>https://www.stappamondo.com/servizi-travel-design</loc>
+    <lastmod>2026-02-16</lastmod>
   </url>
 
+  <!-- WINE EXPERIENCES (COMMERCIALE) -->
   <url>
-    <loc>https://www.stappamondo.com/itinerari-enogastronomici/marche/viaggi-enogastronomici-marche/la-via-della-meraviglia</loc>
-    <lastmod>2026-01-26</lastmod>
-  </url>
-
-  <!-- LANGHE – HUB -->
-  <url>
-    <loc>https://www.stappamondo.com/itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli</loc>
-    <lastmod>2026-01-26</lastmod>
-  </url>
-
-  <!-- Itinerari Langhe -->
-  <url>
-    <loc>https://www.stappamondo.com/itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli/langhe-gran-tour-di-primavera</loc>
-    <lastmod>2026-01-26</lastmod>
-  </url>
-
-  <url>
-    <loc>https://www.stappamondo.com/itinerari-enogastronomici/langhe-viaggi-tra-vigneti-e-castelli/langhe-in-fiore-5-giorni-gourmet</loc>
-    <lastmod>2026-01-26</lastmod>
-  </url>
-
-  <!-- MONTEFALCO – UMBRIA -->
-  <url>
-    <loc>https://www.stappamondo.com/itinerari-enogastronomici/montefalco-wine-escape</loc>
-    <lastmod>2026-01-26</lastmod>
-  </url>
-
-  <!-- ENOTURISMO D'ECCELLENZA -->
-  <url>
-    <loc>https://www.stappamondo.com/enoturismo</loc>
-    <lastmod>2026-01-26</lastmod>
-  </url>
-
-  <!-- SINFONIA PORTOGHESE -->
-  <url>
-    <loc>https://www.stappamondo.com/sinfonia-portoghese</loc>
-    <lastmod>2026-01-26</lastmod>
-  </url>
-
-  <!-- SERVIZI DI TRAVEL DESIGN -->
-  <url>
-    <loc>https://www.stappamondo.com/servizi</loc>
-    <lastmod>2026-01-26</lastmod>
+    <loc>https://www.stappamondo.com/wine-experiences</loc>
+    <lastmod>2026-02-16</lastmod>
   </url>
 
   <!-- MAGAZINE -->
   <url>
     <loc>https://www.stappamondo.com/magazine</loc>
-    <lastmod>2026-01-26</lastmod>
+    <lastmod>2026-02-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stappamondo.com/magazine/marche</loc>
+    <lastmod>2026-02-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stappamondo.com/magazine/guida-allenoturismo</loc>
+    <lastmod>2026-02-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stappamondo.com/magazine/guida-allenoturismo/esperienza-autentica-o-turistica</loc>
+    <lastmod>2026-02-16</lastmod>
   </url>
 
-  <!-- CHI SIAMO -->
+  <!-- ENOTURISMO (EDITORIALE / MAGAZINE) -->
+  <url>
+    <loc>https://www.stappamondo.com/enoturismo</loc>
+    <lastmod>2026-02-16</lastmod>
+  </url>
+
+  <!-- BRAND -->
   <url>
     <loc>https://www.stappamondo.com/chi-siamo</loc>
-    <lastmod>2026-01-26</lastmod>
+    <lastmod>2026-02-16</lastmod>
   </url>
 
   <!-- GIFT CARD -->
   <url>
-    <loc>https://www.stappamondo.com/gift-card</loc>
-    <lastmod>2026-01-26</lastmod>
+    <loc>https://www.stappamondo.com/gift-card-esperienze-enogastronomiche-italia</loc>
+    <lastmod>2026-02-16</lastmod>
   </url>
 
   <!-- CONTATTI -->
   <url>
     <loc>https://www.stappamondo.com/contatti</loc>
-    <lastmod>2026-01-26</lastmod>
-  </url>
-
-  <!-- LINGUA -->
-  <url>
-    <loc>https://www.stappamondo.com/lingua</loc>
-    <lastmod>2026-01-26</lastmod>
+    <lastmod>2026-02-16</lastmod>
   </url>
 
 </urlset>
-
