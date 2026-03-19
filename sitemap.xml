@@ -8,16 +8,16 @@
   </url>
 
   <url>
-    <loc>https://www.stappamondo.com/servizi-travel-design</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://www.stappamondo.com/richiedi-il-tuo-viaggio</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.stappamondo.com/servizi-travel-design</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
@@ -36,6 +36,34 @@
   </url>
 
   <url>
+    <loc>https://www.stappamondo.com/viaggi-enogastronomici-langhe</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.stappamondo.com/europa-viaggi-enogastronomici-e-culturali</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.stappamondo.com/wine-experiences</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.stappamondo.com/letteratour-giacomo-leopardi-recanati</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://www.stappamondo.com/viaggi-enogastronomici-marche/entroterre-borghi-di-frontiera</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -47,20 +75,6 @@
     <lastmod>2026-03-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.stappamondo.com/letteratour-giacomo-leopardi-recanati</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.stappamondo.com/viaggi-enogastronomici-langhe</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
   </url>
 
   <url>
@@ -78,24 +92,10 @@
   </url>
 
   <url>
-    <loc>https://www.stappamondo.com/europa-viaggi-enogastronomici-e-culturali</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
     <loc>https://www.stappamondo.com/europa-viaggi-enogastronomici-e-culturali/un-brindisi-ai-paesi-baschi</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.stappamondo.com/wine-experiences</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
   </url>
 
   <url>
@@ -109,35 +109,35 @@
     <loc>https://www.stappamondo.com/gift-card-esperienze-enogastronomiche-italia</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.75</priority>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/magazine</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/magazine/marche</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.65</priority>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/magazine/guida-allenoturismo</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.65</priority>
   </url>
 
   <url>
     <loc>https://www.stappamondo.com/magazine/guida-allenoturismo/esperienza-autentica-o-turistica</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.55</priority>
   </url>
 
   <url>
@@ -151,6 +151,6 @@
     <loc>https://www.stappamondo.com/contatti</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.45</priority>
   </url>
 </urlset>
